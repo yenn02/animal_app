@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">animal_app</string>
+    <string name="textview">textView</string>
+</resources>
