@@ -47,9 +47,11 @@ I have chosen to duplicate the following layout from the **Kaiser Permanente** a
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/yenn02/animal_app/assets/124716558/35a41e86-bf71-4ed8-8296-2e2629149e2d.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+
+GIF created with **Screen to gif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -67,10 +69,11 @@ It is for an app that **brief description**.
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I have learned how to create basic layout and manage items in layout
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Yen Nguyen**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
