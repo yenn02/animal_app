@@ -41,7 +41,8 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Kaiser Permanente** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/yenn02/animal_app/assets/124716558/b333c1d3-a13a-4181-b2a8-7278c15d46c8.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+
 
 ## Video Demo
 
